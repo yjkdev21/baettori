@@ -1,7 +1,9 @@
-# 배또리 (Baettori)  
-대학생들을 위한 소모임 커뮤니티 어플리케이션 | **🎓 2024년도 졸업작품**
+# 배또리 (Baettori)   
 
-![배또리 로고](./assets/images/logo.png)
+
+![배또리 로고](./assets/images/logo_frame.png)
+
+**대학생들을 위한 소모임 커뮤니티 어플리케이션** | 🎓 2024년도 졸업작품 
 
 [🔗 배또리 바로가기](https://yjkdev21.github.io/baettori/)  
 
