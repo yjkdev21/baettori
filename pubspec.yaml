@@ -1,5 +1,5 @@
 name: baettori
-description: "A small group community app."
+description: "대학생들을 위한 소모임 커뮤니티 어플"
 publish_to: 'none'
 
 version: 1.0.0+1
