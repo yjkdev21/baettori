@@ -31,6 +31,19 @@ class MyApp extends StatelessWidget {
       title: '배또리',
       theme: themeData(),
       home: const LoginScreen(),
+
+      // builder
+      builder: (context, child) {
+        return Center(
+          child: ClipRect(
+            child: SizedBox(
+              width: 375,
+              height: 812,
+              child: child,
+            ),
+          ),
+        );
+      },
     );
   }
 }
